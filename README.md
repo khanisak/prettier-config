@@ -1,13 +1,11 @@
-# `@azz/prettier-config`
-
-> My personal [Prettier](https://prettier.io) config.
+# THIS PROJECT IS FORKED FROM @azz/prettier-config
 
 ## Usage
 
 **Install**:
 
 ```bash
-$ yarn add --dev @azz/prettier-config
+$ npm install--save-dev @khanisak/prettier-config
 ```
 
 **Edit `package.json`**:
@@ -15,6 +13,6 @@ $ yarn add --dev @azz/prettier-config
 ```jsonc
 {
   // ...
-  "prettier": "@azz/prettier-config"
+  "prettier": "@khanisak/prettier-config"
 }
 ```
