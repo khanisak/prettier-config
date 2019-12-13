@@ -1,9 +1,16 @@
 {
-  "name": "@azz/prettier-config",
+  "name": "@khanisak/prettier-config",
   "version": "1.0.0",
   "description": "Personal Prettier config",
   "main": "index.json",
-  "repository": "git@github.com:khanisak/prettier-config.git",
-  "author": "Khanis Anthony K",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/khanisak/prettier-config.git"
+	},
+	"bugs": {
+		"url": "https://github.com/khanisak/prettier-config/issues",
+		"email": "khanis.anthony@gmail.com"
+	},
+  "author": "Khanis Anthony",
   "license": "MIT"
 }
